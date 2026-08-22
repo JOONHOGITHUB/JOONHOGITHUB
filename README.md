@@ -63,9 +63,6 @@ CX,DX,AX 기반 문제 해결에 관심이 있습니다.
 
 Python · PyTorch · OpenCV · MediaPipe · ROS · C++ · Java · Linux · Git · GitHub · SQL
 
-## 학력 및 자격
+## 학력
 
 - **국민대학교 인공지능학부** 학사과정 (2022.03 – 2026.08)
-- **SQLD(SQL 개발자)** (2025)
-- **1종 보통 운전면허증** (2018)
-- **1종 대형 운전면허증** (2022)
