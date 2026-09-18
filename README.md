@@ -40,6 +40,7 @@ CX,DX,AX 기반 문제 해결에 관심이 있습니다.
 | [2023 MORAI 자율주행 경진대회](https://github.com/JOONHOGITHUB/2023MORAIContest) | ROS 시뮬레이션 환경에서 카메라 기반 차선 인지 결과와 주행 제어 로직을 연동한 자율주행 프로젝트 | ROS, OpenCV, Python, C++ |
 | [MediaPipe 얼굴 랜드마크 파이프라인](https://github.com/JOONHOGITHUB/MediaPipe-) | 영상 다운로드부터 분할, 얼굴 영역 추출, 랜드마크 생성 및 시각화까지 자동화한 영상 처리 프로젝트 | MediaPipe, OpenCV, MoviePy |
 | [기아 PBV 관광 모빌리티 서비스](https://github.com/JOONHOGITHUB/kia-pbv-tourism-mobility) | PBV의 가변형 공간과 디지털 콘텐츠를 결합해 이동 시간을 관광 경험으로 확장한 서비스 기획 프로젝트 | PBV, Mobility, UX, Service Planning |
+| [공공데이터 기반 고속도로 통행 예약 서비스](https://github.com/JOONHOGITHUB/holiday-highway-reservation) | 명절 교통량 데이터를 분석하고, 사전 예약과 인센티브로 교통 수요를 분산하는 서비스 및 UI/UX 기획 프로젝트 | 공공데이터 분석, 서비스 기획, UI/UX, 정책 실효성 검토 | |
 
 ## 주요 활동
 
